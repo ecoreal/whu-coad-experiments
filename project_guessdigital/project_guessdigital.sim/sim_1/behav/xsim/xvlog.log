@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado_file/project_guessdigital/project_guessdigital.srcs/sources_1/new/test.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module test
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Vivado_file/project_guessdigital/project_guessdigital.srcs/sim_1/new/test_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module test_tb

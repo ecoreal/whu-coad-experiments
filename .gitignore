@@ -1,0 +1,67 @@
+# Vivado generated directories
+.Xil/
+.gen/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+
+# Vivado IP generated products
+**/*.srcs/**/ip/**/doc/
+**/*.srcs/**/ip/**/hdl/
+**/*.srcs/**/ip/**/sim/
+**/*.srcs/**/ip/**/simulation/
+**/*.srcs/**/ip/**/synth/
+**/*.srcs/**/ip/**/*.veo
+**/*.srcs/**/ip/**/*.vho
+**/*.srcs/**/ip/**/*.xml
+**/*.srcs/**/ip/**/*_ooc.xdc
+**/*.srcs/**/ip/**/*_sim_netlist.v
+**/*.srcs/**/ip/**/*_sim_netlist.vhdl
+**/*.srcs/**/ip/**/*_stub.v
+**/*.srcs/**/ip/**/*_stub.vhdl
+
+# Vivado generated files and reports
+*.bit
+*.bin
+*.dcp
+*.jou
+*.log
+*.pb
+*.rpt
+*.rpx
+*.str
+*.wdb
+*.wdf
+*.wpc
+*.vdi
+*.vds
+*.mif
+*.backup.*
+usage_statistics_webtalk.*
+webtalk*.jou
+webtalk*.log
+webtalk*.xml
+
+# Simulator outputs
+xsim.dir/
+xsim.ini
+xvlog.*
+xelab.*
+simulate.*
+compile.*
+elaborate.*
+
+# Packaged archives
+*.zip
+*.rar
+*.7z
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
