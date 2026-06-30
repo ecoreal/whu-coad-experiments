@@ -1,3 +1,14 @@
+<!-- ecoreal-repo-header: whu-coad-experiments -->
+<div align="center">
+
+<img src="assets/repo-icon.png" width="160" alt="WHU COAD Experiments icon">
+
+# WHU COAD Experiments
+
+WHU computer organization and digital design experiments.
+
+</div>
+
 # WHU COAD Experiment
 
 [简体中文](README.zh-CN.md)
